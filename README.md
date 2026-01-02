@@ -22,4 +22,4 @@ The heart disease dataset from UCI Machine learning repository is used [1]. It c
  The aim is to understand dataset, its features, data distrubution, data  patterns or correlations, relationships and detect outliers.
 
  #### Reference
- [1] ] Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+ [1] Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989). Heart Disease [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
